@@ -1,0 +1,5 @@
+This 1
+is 2
+writing a file 3
+in 4
+"x" mode 5

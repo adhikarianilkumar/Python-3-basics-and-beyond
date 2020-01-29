@@ -1,0 +1,4 @@
+openAndReadFile
+
+Docstring:
+Open file and return a stream.  Raise OSError upon failure.
